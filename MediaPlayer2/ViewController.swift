@@ -8,9 +8,7 @@
 import UIKit
 import AVKit
 import AVFoundation
-import AssetsLibrary
 import MobileCoreServices
-
 import PhotosUI
 
 class ViewController: UIViewController ,UIImagePickerControllerDelegate, UINavigationControllerDelegate{
